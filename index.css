@@ -7,6 +7,11 @@ body {
     background:#8c7510d2;
     color: #333;
   }
+
+  fieldset {
+    background-color: #d6c4c4;
+  }
+
   h5 {
   text-align: center;
   }
